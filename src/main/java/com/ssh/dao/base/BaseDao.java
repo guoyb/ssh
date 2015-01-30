@@ -5,7 +5,7 @@ import java.util.List;
 /**
  * Created by guoyibin on 15/1/30.
  *
- *
+ * 基础dao接口
  */
 public interface BaseDao<T> {
     /**

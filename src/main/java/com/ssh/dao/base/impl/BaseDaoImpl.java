@@ -11,6 +11,8 @@ import java.util.List;
 
 /**
  * Created by guoyibin on 15/1/30.
+ *
+ * 基础dao实现类
  */
 @Repository
 public class BaseDaoImpl<T> implements BaseDao<T> {
